@@ -1,8 +1,6 @@
 # JSON File Reading and Navigation
-
-## Objective
-The objective of this project is to demonstrate how to read a JSON file in text mode and navigate through its objects. The implementation is provided in the following programming languages: JavaScript (js), Python, Java, and C#.
-
+## Objetivo
+O objetivo deste projeto é demonstrar como ler um arquivo JSON em modo texto e navegar por seus objetos. A implementação é fornecida na seguintes linguagen de programação: Java.
 
 ### Java
 
