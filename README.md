@@ -1,7 +1,6 @@
-# Leitura e Navegação de Arquivos SON
-Objetivo
-O objetivo deste projeto é demonstrar como ler um arquivo JSON em modo texto e navegar por seus objetos. A implementação é fornecida nas seguintes linguagens de programação: Java.
-
+# JSON File Reading and Navigation
+## Objetivo
+O objetivo deste projeto é demonstrar como ler um arquivo JSON em modo texto e navegar por seus objetos. A implementação é fornecida na seguintes linguagen de programação: Java.
 
 ### Java
 
